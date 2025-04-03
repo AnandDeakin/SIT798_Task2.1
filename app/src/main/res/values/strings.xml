@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Unit Convertor</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title">Unit Converter</string>
+    <string name="enter_value">Enter Value:</string>
+    <string name="from">From Unit:</string>
+    <string name="to">To Unit:</string>
+    <string name="convert">Convert</string>
+    <string name="result">Result:</string>
+    <string name="enter_value_hint">Enter value to convert</string>
+    <string name="error_empty_input">Please enter a value to convert</string>
+    <string name="error_invalid_number">Please enter a valid number</string>
+    <string name="error_negative_kelvin">Kelvin cannot be negative</string>
+    <string name="error_below_absolute_zero_celsius">Temperature below absolute zero (-273.15°C)</string>
+    <string name="error_below_absolute_zero_fahrenheit">Temperature below absolute zero (-459.67°F)</string>
+    <string name="error_same_units">Source and destination units are the same</string>
+    <string name="error_unknown_conversion">Unknown conversion type</string>
+    <string name="error_conversion">Error during conversion</string>
+    <string name="app_logo">App logo</string>
+    <string name="zero">0</string>
+    <string name="conversion_type">Select the unit of conversion</string>
+</resources>
